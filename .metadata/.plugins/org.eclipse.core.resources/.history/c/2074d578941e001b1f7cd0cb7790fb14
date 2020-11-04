@@ -1,0 +1,11 @@
+import java.io.*;
+import java.io.BufferedReader;
+
+public class Sample2_1
+{
+	public static void main(String[] args)throws IOException
+	{
+		System.outprintln("請輸入整數");
+		
+	}
+}
